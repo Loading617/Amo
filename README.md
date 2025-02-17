@@ -1,2 +1,2 @@
 # Amo
-Watched Number of Times YouTube Video Extension
+A Extension to See Amount of Times you've Watched a YouTube Video
